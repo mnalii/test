@@ -6,3 +6,4 @@ console.log('OK5');
 console.log('OK6');
 console.log('OK7');
 console.log('OK8');
+console.log('OK9');
